@@ -1,0 +1,36 @@
+{
+  "allvideos": [
+    {
+      "id": "1",
+      "caption": "leo trailer",
+      "url": "https://i.ytimg.com/vi/2W2QC_1TDDA/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "2",
+      "caption": "Salaar",
+      "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4GPvYMKtrtI&psig=AOvVaw3RmsZbOtXZSDO0b4yTt3sg&ust=1703603671695000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCa5LHwqoMDFQAAAAAdAAAAABAD",
+      "link": "https://www.youtube.com/embed/4GPvYMKtrtI"
+    }
+  ],
+  "history": [
+    {
+      "caption": "leo trailer",
+      "link": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "12/25/2023, 09:02:08 PM",
+      "id": 1
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "trailers",
+      "allVideos": []
+    },
+    {
+      "id": 2,
+      "categoryName": "songs",
+      "allVideos": []
+    }
+  ]
+}
